@@ -1,13 +1,14 @@
 <h2 align="left">Hi 👋! My name is Ayesha Zahid and I'm a BSCS Student, from Pakistan.</h2>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazahidd0-stack&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <!-- Stable Mirror 1: Stats -->
+  <img src="https://github-readme-stats.shion.dev/api?username=ayeshaazahidd0-stack&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  
+  <!-- Stable Mirror 2: Languages -->
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
-###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
