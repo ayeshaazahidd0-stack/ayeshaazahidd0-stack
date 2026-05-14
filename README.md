@@ -4,10 +4,8 @@
 
 <div align="center">
   <!-- Replace 'YOUR-USERNAME' with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazahidd0-stack
-&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack
-&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazahidd0-stack&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -47,6 +45,6 @@
 
 <!-- Note: The Snake Game requires a GitHub Action to run. 
      For now, this uses a placeholder or you can remove this line until you set up the Action. -->
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ayeshaazahidd0-stack/ayeshaazahidd0-stack/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
