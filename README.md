@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ayesha Zahid and I'm a BSCS Student, from Pakistan.</h2>
+<h2 align="left">Hi! My name is Ayesha Zahid and I'm a BSCS Student, from Pakistan.</h2>
 
 ###
 <div align="center">
