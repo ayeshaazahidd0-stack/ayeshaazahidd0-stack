@@ -4,8 +4,10 @@
 
 <div align="center">
   <!-- Replace 'YOUR-USERNAME' with your actual GitHub username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshaazahidd0-stack
+&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack
+&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ###
