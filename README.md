@@ -4,6 +4,18 @@
 
 <div align="center">
   <!-- Replace 'YOUR-USERNAME' with your actual GitHub username below -->
+  <div align="center">
+  <!-- UPDATED LINKS FOR 2026 -->
+  <img src="https://github-stats-extended.vercel.app/api?username=ayeshaazahidd0show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0&layout=compact&theme=radical" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- THE SNAKE (Ensure you ran the Action first!) -->
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
  [https://github-stats-extended.vercel.app/api?username=ayeshaazahidd0-stack&show_icons=true&theme=radical](https://github-stats-extended.vercel.app/api?username=ayeshaazahidd0-stack
 &show_icons=true&theme=radical)
 [https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical](https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical
