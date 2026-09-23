@@ -1,24 +1,36 @@
-<h2 align="left">Hi! My name is Ayesha Zahid and I'm a BSCS Student, from Pakistan.</h2>
+# Hi there, I'm Ayesha Zahid 👋
+I am an undergraduate Computer Science student with a deep passion for software engineering, object-oriented programming, digital logic design, and interactive terminal-based applications. I enjoy bridging the gap between low-level system logic and clean, functional user interfaces.
 
-###
-<div align="center">
-  <!-- Stable Mirror 2: Languages -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
+**💻 Tech Stack & Skills**
+Languages: C++, Java, JavaScript, HTML5, CSS3
 
+Frameworks & Libraries: Bootstrap, Java Swing, Emscripten (WebAssembly)
 
+Hardware & Systems: Digital Logic Design (XOR/Logic Gates, ADCs/DACs), Arduino
 
-<div align="left">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/ayeshaaee_z/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="ayeshaazahidd0@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="www.linkedin.com/in/ayesha-zahid-505318388"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-</div>
+Tools & Platforms: Git, GitHub, VS Code, Ibis Paint X, itch.io
 
-###
+**🚀 Featured Projects**
+NeoTokyo-Terminal (C++ / WebAssembly)
 
-<br clear="both">
+A cyberpunk terminal hacking simulator featuring custom Caesar/XOR cipher encryption logic, compiled via Emscripten and published on itch.io as a browser game.
 
-<img src="https://raw.githubusercontent.com/ayeshaazahidd0-stack/ayeshaazahidd0-stack/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+Object-Oriented Java Chess Engine (Java / Swing)
 
-###
+A structured chess application incorporating object-oriented design principles, custom move validation logic, and an interactive graphical user interface.
+
+Dungeon Exploration & Combat Engine (C++)
+
+A custom C++ header library demonstrating advanced OOP concepts including operator overloading, function overloading, and robust file stream handling.
+
+Real-Time Digital Voice Scrambler (Hardware / Logic Design)
+
+A hardware-based prototype built with partner Amina Naseer using XOR logic gates alongside ADC0804 and DAC0808 converters for signal processing.
+
+**📊 GitHub Stats**
+**📫 Connect with Me**
+LinkedIn: Will update
+
+Itch.io: Will update
+
+Instagram (Art & Creative Archives): Otherside Archives
