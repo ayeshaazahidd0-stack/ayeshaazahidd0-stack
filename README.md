@@ -2,36 +2,11 @@
 
 ###
 <div align="center">
-  <!-- Stable Mirror 1: Stats -->
-  <img src="https://github-readme-stats.shion.dev/api?username=ayeshaazahidd0-stack&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  
   <!-- Stable Mirror 2: Languages -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ayeshaazahidd0-stack&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 
-
-
-###
-
-<div align="left">
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <!-- Java -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-</div>
-
-###
 
 <div align="left">
   <!-- Instagram -->
