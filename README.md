@@ -3,8 +3,11 @@ I am an undergraduate Computer Science student with a deep passion for software 
 
 **💻 Tech Stack & Skills**
 **Languages:** C++, Java, JavaScript, HTML5, CSS3
-**Frameworks & Libraries: **Bootstrap, Java Swing, Emscripten (WebAssembly)
+
+**Frameworks & Libraries:** Bootstrap, Java Swing, Emscripten (WebAssembly)
+
 **Hardware & Systems:** Digital Logic Design (XOR/Logic Gates, ADCs/DACs), Arduino
+
 **Tools & Platforms:** Git, GitHub, VS Code, Ibis Paint X, itch.io, Eclipse, Kali Linux
 
 **🚀 Featured Projects**
